@@ -1,6 +1,8 @@
 django-phased
 =============
 
+fork
+
 .. image:: https://secure.travis-ci.org/codysoyland/django-phased.png
    :alt: Build Status
    :target: https://secure.travis-ci.org/codysoyland/django-phased
